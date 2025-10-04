@@ -1,0 +1,212 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A beautiful overhead shot of a table laden with various gourmet dishes and pastries.",
+      "imageUrl": "https://images.unsplash.com/photo-1545216560-68430ad77342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb29kJTIwc3ByZWFkfGVufDB8fHx8MTc1OTQ3OTUzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food spread",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "about-portrait",
+      "description": "A professional and friendly portrait of Paula Rebollar.",
+      "imageUrl": "/img/other/paula_lecordonblue1.webp",
+      "imageHint": "chef portrait",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-1",
+      "description": "Pâtisserie 1",
+      "imageUrl": "/img/pastry/pastry1.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-2",
+      "description": "Pâtisserie 2",
+      "imageUrl": "/img/pastry/pastry2.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-3",
+      "description": "Pâtisserie 3",
+      "imageUrl": "/img/pastry/pastry3.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-4",
+      "description": "Pâtisserie 4",
+      "imageUrl": "/img/pastry/pastry4.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-5",
+      "description": "Pâtisserie 5",
+      "imageUrl": "/img/pastry/pastry5.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-6",
+      "description": "Pâtisserie 6",
+      "imageUrl": "/img/pastry/pastry6.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-7",
+      "description": "Pâtisserie 7",
+      "imageUrl": "/img/pastry/pastry7.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-8",
+      "description": "Pâtisserie 8",
+      "imageUrl": "/img/pastry/pastry8.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-9",
+      "description": "Pâtisserie 9",
+      "imageUrl": "/img/pastry/pastry9.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-10",
+      "description": "Pâtisserie 10",
+      "imageUrl": "/img/pastry/pastry10.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-11",
+      "description": "Pâtisserie 11",
+      "imageUrl": "/img/pastry/pastry11.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-pastry-12",
+      "description": "Pâtisserie 12",
+      "imageUrl": "/img/pastry/pastry12.webp",
+      "imageHint": "pâtisserie",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-1",
+      "description": "Cuisine 1",
+      "imageUrl": "/img/cuisine/cuisine1.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-2",
+      "description": "Cuisine 2",
+      "imageUrl": "/img/cuisine/cuisine2.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-3",
+      "description": "Cuisine 3",
+      "imageUrl": "/img/cuisine/cuisine3.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-4",
+      "description": "Cuisine 4",
+      "imageUrl": "/img/cuisine/cuisine4.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-5",
+      "description": "Cuisine 5",
+      "imageUrl": "/img/cuisine/cuisine5.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-6",
+      "description": "Cuisine 6",
+      "imageUrl": "/img/cuisine/cuisine6.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-7",
+      "description": "Cuisine 7",
+      "imageUrl": "/img/cuisine/cuisine7.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-8",
+      "description": "Cuisine 8",
+      "imageUrl": "/img/cuisine/cuisine8.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-9",
+      "description": "Cuisine 9",
+      "imageUrl": "/img/cuisine/cuisine9.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-10",
+      "description": "Cuisine 10",
+      "imageUrl": "/img/cuisine/cuisine10.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-11",
+      "description": "Cuisine 11",
+      "imageUrl": "/img/cuisine/cuisine11.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    },
+    {
+      "id": "gallery-cuisine-12",
+      "description": "Cuisine 12",
+      "imageUrl": "/img/cuisine/cuisine12.webp",
+      "imageHint": "cuisine",
+      "width": 800,
+      "height": 1000
+    }
+  ]
+}
