@@ -38,7 +38,7 @@ export function GallerySection() {
             data-ai-hint={image.imageHint}
           />
           <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center p-4">
-            <p className="text-white text-center font-medium">{image.description}</p>
+            <p className="text-white text-center font-medium whitespace-pre-line">{image.description}</p>
           </div>
         </button>
       ))}
@@ -85,7 +85,7 @@ export function GallerySection() {
                   data-ai-hint={selectedImage.imageHint}
                 />
               </div>
-              <p className="p-4 text-center text-sm text-muted-foreground bg-background">{selectedImage.description}</p>
+              <p className="p-4 text-center text-sm text-muted-foreground bg-background whitespace-pre-line">{selectedImage.description}</p>
             </>
           )}
         </DialogContent>
