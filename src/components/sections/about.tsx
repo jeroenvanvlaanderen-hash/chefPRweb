@@ -15,10 +15,10 @@ export function AboutSection() {
           <div className="md:col-span-2">
             <div className="space-y-4 text-lg text-foreground/80">
               <p>
-                With over a decade of experience in the world's most renowned kitchens, I have cultivated a deep passion for the art of gastronomy. My journey began in a small family-owned bakery, where I learned the fundamentals of pastry, and has since taken me across continents to master both sweet and savory disciplines.
+                I bring a unique blend of culinary expertise and a deep understanding of medical nutrition. I have a degree in biomedical sciences this enables me to create tailored meals that not only delight the palate but also support health and wellness. I prioritise using high-quality, nutrient- dense ingredients, ensuring that every dish is crafted to promote optimal health outcomes. This integrated approach would allow me to cater to client's individual preferences while enhancing their overall wellbeing.
               </p>
               <p>
-                I believe that food is a universal language, a medium for storytelling, and a celebration of culture. My culinary philosophy centers on using high-quality, seasonal ingredients to create dishes that are both innovative and comforting. Each plate is a canvas, and every flavor is a brushstroke in a masterpiece of taste and texture.
+                Having a family background rooted in the restaurant industry, I developed a deep appreciation for the culinary arts and the importance of creating memorable dining experiences. This upbringing instilled in me a strong work ethic and a commitment to quality, as I witnessed firsthand the passion and dedication required to succeed in the hospitality industry. My time at Le Cordon Bleu provided me with a thorough grounding in both classical and contemporary culinary techniques, allowing me to create dishes that are both innovative and rooted in tradition.
               </p>
             </div>
           </div>
