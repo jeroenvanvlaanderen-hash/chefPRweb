@@ -1,40 +1,33 @@
-
 "use client";
 
-import {
-  Accordion,
-  AccordionContent,
-  AccordionItem,
-  AccordionTrigger,
-} from "@/components/ui/accordion";
 import { GraduationCap, ChefHat, Star } from "lucide-react";
 import { ElementType } from "react";
 
-type AccordionItemType = {
+type ExperienceItemType = {
   icon: ElementType;
   value: string;
-  question: string;
-  answer: string;
+  title: string;
+  subtitle: string;
 };
 
-const experienceItems: AccordionItemType[] = [
+const experienceItems: ExperienceItemType[] = [
   {
     icon: ChefHat,
     value: "item-2",
-    question: "Le Cordon Bleu Grand Diplôme",
-    answer: "Cuisine & Pâtisserie",
+    title: "Le Cordon Bleu Grand Diplôme",
+    subtitle: "Cuisine & Pâtisserie",
   },
   {
     icon: GraduationCap,
     value: "item-1",
-    question: "BSc Biomedical Sciences",
-    answer: "University of Liverpool",
+    title: "BSc Biomedical Sciences",
+    subtitle: "University of Liverpool",
   },
   {
     icon: Star,
     value: "item-3",
-    question: "Michelin-Star Restaurant Experience",
-    answer: "3-month experience at Speilsalen, Trondheim",
+    title: "Michelin-Star Restaurant Experience",
+    subtitle: "3-month experience at Speilsalen, Trondheim",
   },
 ];
 
@@ -44,34 +37,24 @@ export function ExperienceSection() {
         <div className="container mx-auto max-w-7xl px-6">
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-headline font-bold text-gray-800">
-                Experience
+                Experience & Education
               </h2>
             </div>
 
-            <Accordion type="single" collapsible className="w-full space-y-3 max-w-3xl mx-auto">
-              {experienceItems.map(({ icon: Icon, value, question, answer }) => (
-                <AccordionItem
+            <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+              {experienceItems.map(({ icon: Icon, value, title, subtitle }) => (
+                <div
                   key={value}
-                  value={value}
-                  className="group border border-border rounded-md overflow-hidden transition-all duration-300 bg-card"
+                  className="bg-card p-6 rounded-lg border border-border text-center flex flex-col items-center shadow-sm"
                 >
-                  <AccordionTrigger
-                    className="flex items-center justify-between w-full px-4 py-3 bg-transparent text-left group-data-[state=open]:bg-accent transition-colors"
-                  >
-                    <div className="flex items-center gap-3 flex-1">
-                      <Icon className="w-5 h-5 transition-colors duration-300 text-foreground/60 group-data-[state=open]:text-primary" />
-                      <span className="text-base font-medium text-foreground">
-                        {question}
-                      </span>
-                    </div>
-                  </AccordionTrigger>
-
-                  <AccordionContent className="relative px-4 py-3 text-sm text-foreground/80 border-t border-border before:absolute before:top-0 before:left-0 before:w-1 before:h-full before:bg-primary before:opacity-0 group-data-[state=open]:before:opacity-100 transition-all duration-300">
-                    {answer}
-                  </AccordionContent>
-                </AccordionItem>
+                  <div className="mb-4">
+                    <Icon className="w-10 h-10 text-primary" />
+                  </div>
+                  <h3 className="text-lg font-semibold text-foreground mb-1">{title}</h3>
+                  <p className="text-sm text-muted-foreground">{subtitle}</p>
+                </div>
               ))}
-            </Accordion>
+            </div>
       </div>
     </section>
   );
