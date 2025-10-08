@@ -122,16 +122,16 @@
     },
     {
       "id": "gallery-cuisine-2",
-      "description": "Milk-fed lamb shoulder / spiced granola / eggplant",
-      "imageUrl": "/img/cuisine/cuisine2.webp",
+      "description": "Trout with nori seaweed / curry sauce / daikon radish",
+      "imageUrl": "/img/cuisine/cuisine11.webp",
       "imageHint": "cuisine",
       "width": 800,
       "height": 1000
     },
     {
       "id": "gallery-cuisine-3",
-      "description": "Truffle chicken breast / chanterelles / buckwheat",
-      "imageUrl": "/img/cuisine/cuisine3.webp",
+      "description": "Confit seabass / olive crust / white tomato sauce / zucchini flower",
+      "imageUrl": "/img/cuisine/cuisine10.webp",
       "imageHint": "cuisine",
       "width": 800,
       "height": 1000
@@ -186,16 +186,16 @@
     },
     {
       "id": "gallery-cuisine-10",
-      "description": "Confit seabass / olive crust / white tomato sauce / zucchini flower",
-      "imageUrl": "/img/cuisine/cuisine10.webp",
+      "description": "Truffle chicken breast / chanterelles / buckwheat",
+      "imageUrl": "/img/cuisine/cuisine3.webp",
       "imageHint": "cuisine",
       "width": 800,
       "height": 1000
     },
     {
       "id": "gallery-cuisine-11",
-      "description": "Trout with nori seaweed / curry sauce / daikon radish",
-      "imageUrl": "/img/cuisine/cuisine11.webp",
+      "description": "Milk-fed lamb shoulder / spiced granola / eggplant",
+      "imageUrl": "/img/cuisine/cuisine2.webp",
       "imageHint": "cuisine",
       "width": 800,
       "height": 1000
