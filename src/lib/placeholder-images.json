@@ -18,7 +18,7 @@
     },
     {
       "id": "gallery-pastry-1",
-      "description": "Pâtisserie 1",
+      "description": "Strawberry & coconut tart",
       "imageUrl": "/img/pastry/pastry1.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -26,7 +26,7 @@
     },
     {
       "id": "gallery-pastry-2",
-      "description": "Pâtisserie 2",
+      "description": "Opera cake",
       "imageUrl": "/img/pastry/pastry2.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -34,7 +34,7 @@
     },
     {
       "id": "gallery-pastry-3",
-      "description": "Pâtisserie 3",
+      "description": "Red berry biscuit & mascarpone mousse cake",
       "imageUrl": "/img/pastry/pastry3.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -42,7 +42,7 @@
     },
     {
       "id": "gallery-pastry-4",
-      "description": "Pâtisserie 4",
+      "description": "Caramel and apple tart",
       "imageUrl": "/img/pastry/pastry4.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -50,7 +50,7 @@
     },
     {
       "id": "gallery-pastry-5",
-      "description": "Pâtisserie 5",
+      "description": "Apple, cardamom & pecan nut pear gateaux",
       "imageUrl": "/img/pastry/pastry5.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -58,7 +58,7 @@
     },
     {
       "id": "gallery-pastry-6",
-      "description": "Pâtisserie 6",
+      "description": "Mango, raspberry & cashew nut fusion dessert",
       "imageUrl": "/img/pastry/pastry6.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -66,7 +66,7 @@
     },
     {
       "id": "gallery-pastry-7",
-      "description": "Pâtisserie 7",
+      "description": "Chocolate hazelnut intense dessert",
       "imageUrl": "/img/pastry/pastry7.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -74,7 +74,7 @@
     },
     {
       "id": "gallery-pastry-8",
-      "description": "Pâtisserie 8",
+      "description": "Lime and berry domes",
       "imageUrl": "/img/pastry/pastry8.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -82,7 +82,7 @@
     },
     {
       "id": "gallery-pastry-9",
-      "description": "Pâtisserie 9",
+      "description": "Chocolate equinox dessert, gluten free",
       "imageUrl": "/img/pastry/pastry9.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -90,7 +90,7 @@
     },
     {
       "id": "gallery-pastry-10",
-      "description": "Pâtisserie 10",
+      "description": "Spiced clementine, citrus genoise sponge, almond caramel & intense chocolate cream",
       "imageUrl": "/img/pastry/pastry10.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -98,7 +98,7 @@
     },
     {
       "id": "gallery-pastry-11",
-      "description": "Pâtisserie 11",
+      "description": "Fennel chocolate dessert",
       "imageUrl": "/img/pastry/pastry11.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -106,7 +106,7 @@
     },
     {
       "id": "gallery-pastry-12",
-      "description": "Pâtisserie 12",
+      "description": "Sugar-potted pulled sugar creation",
       "imageUrl": "/img/pastry/pastry12.webp",
       "imageHint": "pâtisserie",
       "width": 800,
