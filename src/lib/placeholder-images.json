@@ -114,7 +114,7 @@
     },
     {
       "id": "gallery-cuisine-1",
-      "description": "Cuisine 1",
+      "description": "Rabbit fricassée with mustard / sunchoke / roasted pearl onion",
       "imageUrl": "/img/cuisine/cuisine1.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -122,7 +122,7 @@
     },
     {
       "id": "gallery-cuisine-2",
-      "description": "Cuisine 2",
+      "description": "Milk-fed lamb shoulder / spiced granola / eggplant",
       "imageUrl": "/img/cuisine/cuisine2.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -130,7 +130,7 @@
     },
     {
       "id": "gallery-cuisine-3",
-      "description": "Cuisine 3",
+      "description": "Truffle chicken breast / chanterelles / buckwheat",
       "imageUrl": "/img/cuisine/cuisine3.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -138,7 +138,7 @@
     },
     {
       "id": "gallery-cuisine-4",
-      "description": "Cuisine 4",
+      "description": "Saffron risotto / mussels / razor clam / zesty foam",
       "imageUrl": "/img/cuisine/cuisine4.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -146,7 +146,7 @@
     },
     {
       "id": "gallery-cuisine-5",
-      "description": "Cuisine 5",
+      "description": "Squid ink rice puff / tuna tartar / avocado purée & Prawn tartar tartlets / salmon roe / confit lemon",
       "imageUrl": "/img/cuisine/cuisine5.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -154,7 +154,7 @@
     },
     {
       "id": "gallery-cuisine-6",
-      "description": "Cuisine 6",
+      "description": "“Ajo Blanco” / lobster / pickled vegetables",
       "imageUrl": "/img/cuisine/cuisine6.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -162,7 +162,7 @@
     },
     {
       "id": "gallery-cuisine-7",
-      "description": "Cuisine 7",
+      "description": "Bluefin tuna cheek / glazed pak choi / demi-glace",
       "imageUrl": "/img/cuisine/cuisine7.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -170,7 +170,7 @@
     },
     {
       "id": "gallery-cuisine-8",
-      "description": "Cuisine 8",
+      "description": "Squid / cockles / squid ink sponge cake",
       "imageUrl": "/img/cuisine/cuisine8.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -178,7 +178,7 @@
     },
     {
       "id": "gallery-cuisine-9",
-      "description": "Cuisine 9",
+      "description": "Tuna tartar / mustard ice cream / pickled egg yolk / tuile",
       "imageUrl": "/img/cuisine/cuisine9.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -186,7 +186,7 @@
     },
     {
       "id": "gallery-cuisine-10",
-      "description": "Cuisine 10",
+      "description": "Comfit seabass / olive crust / white tomato sauce / zucchini flower",
       "imageUrl": "/img/cuisine/cuisine10.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -194,7 +194,7 @@
     },
     {
       "id": "gallery-cuisine-11",
-      "description": "Cuisine 11",
+      "description": "Trout with nori seaweed / curry sauce / daikon radish",
       "imageUrl": "/img/cuisine/cuisine11.webp",
       "imageHint": "cuisine",
       "width": 800,
@@ -202,7 +202,7 @@
     },
     {
       "id": "gallery-cuisine-12",
-      "description": "Cuisine 12",
+      "description": "Duck magret / beetroot purée / dehydrated apple",
       "imageUrl": "/img/cuisine/cuisine12.webp",
       "imageHint": "cuisine",
       "width": 800,
