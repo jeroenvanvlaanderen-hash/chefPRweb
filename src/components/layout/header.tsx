@@ -7,8 +7,8 @@ import { Menu, UtensilsCrossed, X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 const navLinks = [
-  { href: '#about', label: 'About' },
   { href: '#gallery', label: 'Gallery' },
+  { href: '#about', label: 'About' },
   { href: '#experience', label: 'Experience' },
   { href: '#contact', label: 'Contact' },
 ];
@@ -21,7 +21,7 @@ export function Header() {
       <div className="container flex h-16 max-w-7xl items-center justify-between">
         <Link href="/" className="flex items-center gap-2" onClick={() => setIsMenuOpen(false)}>
           <UtensilsCrossed className="h-6 w-6 text-primary" />
-          <span className="font-bold text-lg text-gray-800">Paula Rodriguez</span>
+          <span className="font-bold text-lg text-gray-800">Paula Rebollar</span>
         </Link>
 
         <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
