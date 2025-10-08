@@ -15,10 +15,10 @@ export function AboutSection() {
           <div className="md:col-span-2">
             <div className="space-y-4 text-lg text-foreground/80">
               <p>
-                I bring a unique blend of culinary expertise and a deep understanding of medical nutrition. I have a degree in biomedical sciences this enables me to create tailored meals that not only delight the palate but also support health and wellness. I prioritise using high-quality, nutrient- dense ingredients, ensuring that every dish is crafted to promote optimal health outcomes. This integrated approach would allow me to cater to client's individual preferences while enhancing their overall wellbeing.
+                I bring a unique blend of culinary expertise and a deep understanding of medical nutrition. With a degree in Biomedical Sciences, I am able to create tailored meals that not only delight the palate but also support health and wellness. I prioritise the use of high-quality, nutrient-dense ingredients, ensuring that every dish is crafted to promote optimal health outcomes. This integrated approach allows me to cater to clients’ individual preferences while enhancing their overall well-being.
               </p>
               <p>
-                Having a family background rooted in the restaurant industry, I developed a deep appreciation for the culinary arts and the importance of creating memorable dining experiences. This upbringing instilled in me a strong work ethic and a commitment to quality, as I witnessed firsthand the passion and dedication required to succeed in the hospitality industry. My time at Le Cordon Bleu provided me with a thorough grounding in both classical and contemporary culinary techniques, allowing me to create dishes that are both innovative and rooted in tradition.
+                Having a family background rooted in the restaurant industry, I developed a deep appreciation for the culinary arts and the importance of creating memorable dining experiences. This upbringing instilled in me a strong work ethic and a commitment to quality, as I witnessed firsthand the passion and dedication required to succeed in the hospitality industry. My time at Le Cordon Bleu provided me with a solid foundation in both classical and contemporary culinary techniques, enabling me to create dishes that are both innovative and grounded in tradition.
               </p>
             </div>
           </div>
