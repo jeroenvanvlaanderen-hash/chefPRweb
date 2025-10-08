@@ -27,7 +27,7 @@ const experienceItems: ExperienceItemType[] = [
     icon: Star,
     value: "item-3",
     title: "Michelin-Star Restaurant Experience",
-    subtitle: "3-month experience at Speilsalen, Trondheim",
+    subtitle: "Speilsalen, Trondheim",
   },
 ];
 
