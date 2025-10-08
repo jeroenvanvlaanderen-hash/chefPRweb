@@ -50,7 +50,7 @@
     },
     {
       "id": "gallery-pastry-5",
-      "description": "Apple, cardamom & pecan nut pear gateaux",
+      "description": "Apple, cardamom & pecan nut petite-gateaux",
       "imageUrl": "/img/pastry/pastry5.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -58,7 +58,7 @@
     },
     {
       "id": "gallery-pastry-6",
-      "description": "Mango, raspberry & cashew nut fusion dessert",
+      "description": "Mango, raspberry & cashew nut fashion dessert",
       "imageUrl": "/img/pastry/pastry6.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -90,7 +90,7 @@
     },
     {
       "id": "gallery-pastry-10",
-      "description": "Spiced clementine, citrus genoise sponge, almond caramel & intense chocolate cream",
+      "description": "Spiced clementine, citrus genoise sponge, almond crémeux & intense chocolate cream",
       "imageUrl": "/img/pastry/pastry10.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -98,7 +98,7 @@
     },
     {
       "id": "gallery-pastry-11",
-      "description": "Fennel chocolate dessert",
+      "description": "Festive chocolate dessert",
       "imageUrl": "/img/pastry/pastry11.webp",
       "imageHint": "pâtisserie",
       "width": 800,
@@ -106,7 +106,7 @@
     },
     {
       "id": "gallery-pastry-12",
-      "description": "Sugar-potted pulled sugar creation",
+      "description": "Pulled sugar sculpture",
       "imageUrl": "/img/pastry/pastry12.webp",
       "imageHint": "pâtisserie",
       "width": 800,
